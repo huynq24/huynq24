@@ -1,12 +1,13 @@
 ### Hi there 👋
 ## Top languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynq24&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=huynq24&theme=dark)
 
 ## GitHub Streak Stats
-[![GitHub Streak](https://streak-stats.demolab.com?user=huynq24&theme=github-dark&border_radius=10&date_format=j%2Fn%5B%2FY%5D&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=huynq24&theme=dark)](https://git.io/streak-stats)
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynq24&show_icons=true&theme=radical)
+![huynq24's GitHub stats](https://github-readme-stats.vercel.app/api?username=huynq24&show_icons=true&theme=dark)
 
+[![huynq24 github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=huynq24&theme=dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 <!--
 **huynq24/huynq24** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
